@@ -17,8 +17,8 @@ Este projeto tem como objetivo realizar uma análise estatística descritiva e i
 Este projeto demonstrou a aplicação de diversas técnicas estatísticas em um dataset real. As análises fornecem insights valiosos sobre a distribuição e correlação das variáveis, além de demonstrar a aplicabilidade de testes de hipóteses e métodos de amostragem em contextos práticos.
 
 ## Integrantes
-    Laura
-    Guilherme Araujo
-    Guilherme Almeida
-    Carlos Eduardo
-    Luiz Henrique
+- Laura
+- Guilherme Araujo
+- Guilherme Almeida
+- Carlos Eduardo
+- Luiz Henrique
